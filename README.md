@@ -127,10 +127,8 @@ Cek juga repo lain yang membahas
     - Kompilasi perulangan
       
 
-    ![alt text](gambar/8.1.png)
 
     Perulangan for untuk hitung dari 1 sampai 10.
-
 
     ```php
     <?php
@@ -144,11 +142,11 @@ Cek juga repo lain yang membahas
     }
     ?>
     ```
+    ![alt text](gambar/8.1.png)
 
-    ![alt text](gambar/8.2.png)
+
 
     Perulangan while untuk hitung dari 1 sampai 10.
-
 
     ```php
     <?php
@@ -160,11 +158,11 @@ Cek juga repo lain yang membahas
     }
     ?>
     ```
+    ![alt text](gambar/8.2.png)
 
-    ![alt text](gambar/8.3.png)
-    
-    Perulangan do while untuk hitung dari 1 sampai 10.
 
+
+   Perulangan do while untuk hitung dari 1 sampai 10.
 
     ```php
     <?php
@@ -176,6 +174,9 @@ Cek juga repo lain yang membahas
     } while ($i <= 10); // kalau masih begini
     ?>
     ```
+    ![alt text](gambar/8.3.png)
+    
+ 
 
 4. **Hasil Akhir**
 
