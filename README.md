@@ -20,6 +20,7 @@ Cek juga repo lain yang membahas
 
     - Membuat Variable
     ![alt text](gambar/2.png)
+
     nambahin variable php seperti $nim dan $nama lalu menampilkannya lewat echo. 
 
     ```php
@@ -34,6 +35,7 @@ Cek juga repo lain yang membahas
 
     - Predefined $_GET
     ![alt text](gambar/3.png)
+
     pake $_GET saya cuma bisa nampilin namanya kalau edit URL jadi '''http://localhost/webpro7/belajar.php?nama=budi''' dengan nambahin '?nama=budi' ke url yang ada baru $_GET bisa jalan.
 
     ```php
@@ -46,6 +48,7 @@ Cek juga repo lain yang membahas
     - Form Input
     ![alt text](gambar/4.1.png)
     ![alt text](gambar/4.2.png)
+
     nambahin form input nama dan nampilin nama/teks yang di input.
 
     ```php
@@ -62,6 +65,7 @@ Cek juga repo lain yang membahas
 
     - Pakai Operator
     ![alt text](gambar/5.png)
+
     untuk hitung slip gaji.
 
     ```php
@@ -77,6 +81,7 @@ Cek juga repo lain yang membahas
     - Penggunaan kondisi If dan Switch
 
     ![alt text](gambar/6.1.png)
+
     kondisi if di set default/'l'.
 
     ```php
@@ -93,6 +98,7 @@ Cek juga repo lain yang membahas
     ```
 
     ![alt text](gambar/6.2.png)
+
     kondisi switch di set default/'l'.
 
     ```php
@@ -117,6 +123,7 @@ Cek juga repo lain yang membahas
     - Kompilasi perulangan
 
     ![alt text](gambar/8.1.png)
+
     Perulangan for untuk hitung dari 1 sampai 10.
 
     ```php
@@ -133,6 +140,7 @@ Cek juga repo lain yang membahas
     ```
 
     ![alt text](gambar/8.2.png)
+
     Perulangan while untuk hitung dari 1 sampai 10.
 
     ```php
@@ -147,6 +155,7 @@ Cek juga repo lain yang membahas
     ```
 
     ![alt text](gambar/8.3.png)
+    
     Perulangan do while untuk hitung dari 1 sampai 10.
 
     ```php
