@@ -145,7 +145,7 @@ Cek juga repo lain yang membahas
     }
     ?>
     ```
-    
+
     ![alt text](gambar/8.3.png)
     Perulangan do while untuk hitung dari 1 sampai 10.
 
@@ -161,6 +161,7 @@ Cek juga repo lain yang membahas
     ```
 
 4. **Hasil Akhir**
+
     ![alt text](gambar/9.png)
     ini berisi Form html dan proses PHP untuk nampilin nama, hitung umur dan gaji.
 
