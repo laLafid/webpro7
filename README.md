@@ -19,9 +19,9 @@ Cek juga repo lain yang membahas
 3. **ePHP**
 
     - Membuat Variable
-    ![alt text](gambar/2.png)
     nambahin variable php seperti $nim dan $nama lalu menampilkannya lewat echo. 
-
+    ![alt text](gambar/2.png)
+    
     ```php
     <h2>Variable</h2>
     <?php
@@ -33,9 +33,9 @@ Cek juga repo lain yang membahas
     ```
 
     - Predefined $_GET
-    ![alt text](gambar/3.png)
     pake $_GET saya cuma bisa nampilin namanya kalau edit URL jadi '''http://localhost/webpro7/belajar.php?nama=budi''' dengan nambahin '?nama=budi' ke url yang ada baru $_GET bisa jalan.
-
+    ![alt text](gambar/3.png)
+    
     ```php
     <h2>predefined variable $_GET</h2>
     <?php
@@ -44,10 +44,10 @@ Cek juga repo lain yang membahas
     ```
 
     - Form Input
+    nambahin form input nama dan nampilin nama/teks yang di input.
     ![alt text](gambar/4.1.png)
     ![alt text](gambar/4.2.png)
-    nambahin form input nama dan nampilin nama/teks yang di input.
-
+    
     ```php
     <h2>Form Input</h2>
     <form method="post">
@@ -75,9 +75,9 @@ Cek juga repo lain yang membahas
     ```
     
     - Penggunaan kondisi If dan Switch
-
+      
+    kondisi If di set default/'l'.
     ![alt text](gambar/6.1.png)
-    kondisi if di set default/'l'.
 
     ```php
     <?php
@@ -92,8 +92,8 @@ Cek juga repo lain yang membahas
     ?>
     ```
 
+    kondisi Switch di set default/'l'.
     ![alt text](gambar/6.2.png)
-    kondisi switch di set default/'l'.
 
     ```php
     <?php
@@ -115,9 +115,9 @@ Cek juga repo lain yang membahas
     ```
 
     - Kompilasi perulangan
-
-    ![alt text](gambar/8.1.png)
+      
     Perulangan for untuk hitung dari 1 sampai 10.
+    ![alt text](gambar/8.1.png)
 
     ```php
     <?php
@@ -132,8 +132,8 @@ Cek juga repo lain yang membahas
     ?>
     ```
 
-    ![alt text](gambar/8.2.png)
     Perulangan while untuk hitung dari 1 sampai 10.
+    ![alt text](gambar/8.2.png)
 
     ```php
     <?php
@@ -146,8 +146,8 @@ Cek juga repo lain yang membahas
     ?>
     ```
 
-    ![alt text](gambar/8.3.png)
     Perulangan do while untuk hitung dari 1 sampai 10.
+    ![alt text](gambar/8.3.png)
 
     ```php
     <?php
@@ -162,13 +162,13 @@ Cek juga repo lain yang membahas
 
 4. **Hasil Akhir**
 
+    ini berisi Form html untuk input dan proses PHP untuk nampilin nama, hitung umur dan gaji.
     ![alt text](gambar/9.png)
-    ini berisi Form html dan proses PHP untuk nampilin nama, hitung umur dan gaji.
 
     
 ## Akhri Kata
 
-Di bawah ini beberapa latihan yang sudah dikerjakan: 
+Di bawah ini latihan yang sudah dikerjakan: 
 
 1. [Program PHP hitung umur dan gaji berdasarkan pekerjaan](dasar.php)
 ![alt text](gambar/9.png)
