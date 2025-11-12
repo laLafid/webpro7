@@ -75,6 +75,7 @@ Cek juga repo lain yang membahas
     ```
     
     - Penggunaan kondisi If dan Switch
+
     ![alt text](gambar/6.1.png)
     kondisi if di set default/'l'.
 
@@ -90,6 +91,7 @@ Cek juga repo lain yang membahas
     }
     ?>
     ```
+
     ![alt text](gambar/6.2.png)
     kondisi switch di set default/'l'.
 
@@ -113,6 +115,7 @@ Cek juga repo lain yang membahas
     ```
 
     - Kompilasi perulangan
+
     ![alt text](gambar/8.1.png)
     Perulangan for untuk hitung dari 1 sampai 10.
 
@@ -128,6 +131,7 @@ Cek juga repo lain yang membahas
     }
     ?>
     ```
+
     ![alt text](gambar/8.2.png)
     Perulangan while untuk hitung dari 1 sampai 10.
 
@@ -141,6 +145,7 @@ Cek juga repo lain yang membahas
     }
     ?>
     ```
+    
     ![alt text](gambar/8.3.png)
     Perulangan do while untuk hitung dari 1 sampai 10.
 
